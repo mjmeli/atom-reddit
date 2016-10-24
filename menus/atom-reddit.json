@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Browse reddit front page",
+        "command": "atom-reddit:browse"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Reddit",
+          "submenu": [
+            {
+              "label": "Browse",
+              "command": "atom-reddit:browse"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
