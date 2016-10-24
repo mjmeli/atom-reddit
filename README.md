@@ -1,4 +1,5 @@
 # atom-reddit package
+[![Build Status](https://travis-ci.org/mjmeli/atom-reddit.svg?branch=master)](https://travis-ci.org/mjmeli/atom-reddit)
 
 A short description of your package.
 
