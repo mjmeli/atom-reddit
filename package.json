@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-reddit:browse"
   },
-  "repository": "https://github.com/atom/atom-reddit",
+  "repository": "https://github.com/mjmeli/atom-reddit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
